@@ -1,0 +1,31 @@
+body {
+    background-color: #fdf3f8; /* A soft pastel pink */
+    font-family: 'Arial', sans-serif;
+    color: #5c4033; /* A warm brown */
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    color: #f4b8c9; /* A darker pink for the title */
+    font-size: 3em;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #a3c1ad; /* A soft sage green */
+}
+
+ul {
+    list-style-type: none; /* Gets rid of the bullet points */
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 10px auto;
+    padding: 15px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* A cute little shadow */
+}
